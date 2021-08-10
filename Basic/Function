@@ -1,0 +1,11 @@
+subscribe
+observable을 구독 subscribe 함수를 호출해야 변화된 데이터를 구독자에게 발행 
+just 함수만 호출하면 데이터를 발행하지 않는다
+
+map
+
+filter
+
+reduce
+
+flatmap
